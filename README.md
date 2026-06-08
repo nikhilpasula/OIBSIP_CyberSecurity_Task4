@@ -1,8 +1,8 @@
-\# Task 4 - Research Report on Common Network Security Threats
+# Task 4 - Research Report on Common Network Security Threats
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -10,41 +10,41 @@ To research and analyze common network security threats, their impact, real-worl
 
 
 
-\## Topics Covered
+## Topics Covered
 
 
 
-\* Denial of Service (DoS) Attacks
+* Denial of Service (DoS) Attacks
 
-\* Man-in-the-Middle (MITM) Attacks
+* Man-in-the-Middle (MITM) Attacks
 
-\* Spoofing Attacks
-
-
-
-\## Files Included
+* Spoofing Attacks
 
 
 
-\* network\_security\_threats\_report.md
+## Files Included
 
 
 
-\## Key Learning Outcomes
+* network\_security\_threats\_report.md
 
 
 
-\* Understanding common network-based attacks
-
-\* Learning how attackers exploit vulnerabilities
-
-\* Identifying preventive measures and security best practices
-
-\* Analyzing real-world cybersecurity incidents
+## Key Learning Outcomes
 
 
 
-\## Conclusion
+* Understanding common network-based attacks
+
+* Learning how attackers exploit vulnerabilities
+
+* Identifying preventive measures and security best practices
+
+* Analyzing real-world cybersecurity incidents
+
+
+
+## Conclusion
 
 
 
