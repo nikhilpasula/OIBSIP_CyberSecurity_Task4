@@ -1,8 +1,8 @@
-\# Research Report on Common Network Security Threats
+# Research Report on Common Network Security Threats
 
 
 
-\## Introduction
+## Introduction
 
 
 
@@ -14,15 +14,15 @@ This report discusses three major network security threats: Denial of Service (D
 
 
 
-\---
+---
 
 
 
-\## 1. Denial of Service (DoS) Attacks
+## 1. Denial of Service (DoS) Attacks
 
 
 
-\### What is a DoS Attack?
+### What is a DoS Attack?
 
 
 
@@ -30,7 +30,7 @@ A Denial of Service (DoS) attack is an attempt to make a system, server, or netw
 
 
 
-\### How It Works
+### How It Works
 
 
 
@@ -38,21 +38,21 @@ Attackers send a large volume of traffic to a target system. The system becomes 
 
 
 
-\### Impact
+### Impact
 
 
 
-\* Service disruption
+* Service disruption
 
-\* Financial losses
+* Financial losses
 
-\* Reduced productivity
+* Reduced productivity
 
-\* Damage to organizational reputation
+* Damage to organizational reputation
 
 
 
-\### Real-World Example
+### Real-World Example
 
 
 
@@ -60,29 +60,29 @@ In 2016, the Dyn DNS attack disrupted major websites including Twitter, Netflix,
 
 
 
-\### Prevention Techniques
+### Prevention Techniques
 
 
 
-\* Implement firewalls and intrusion prevention systems
+* Implement firewalls and intrusion prevention systems
 
-\* Use traffic filtering and rate limiting
+* Use traffic filtering and rate limiting
 
-\* Deploy DDoS protection services
+* Deploy DDoS protection services
 
-\* Maintain scalable infrastructure
-
-
-
-\---
+* Maintain scalable infrastructure
 
 
 
-\## 2. Man-in-the-Middle (MITM) Attacks
+---
 
 
 
-\### What is a MITM Attack?
+## 2. Man-in-the-Middle (MITM) Attacks
+
+
+
+### What is a MITM Attack?
 
 
 
@@ -90,7 +90,7 @@ A Man-in-the-Middle attack occurs when an attacker secretly intercepts communica
 
 
 
-\### How It Works
+### How It Works
 
 
 
@@ -98,21 +98,21 @@ The attacker positions themselves between a user and a service, capturing or mod
 
 
 
-\### Impact
+### Impact
 
 
 
-\* Data theft
+* Data theft
 
-\* Credential compromise
+* Credential compromise
 
-\* Unauthorized access
+* Unauthorized access
 
-\* Financial fraud
+* Financial fraud
 
 
 
-\### Real-World Example
+### Real-World Example
 
 
 
@@ -120,29 +120,29 @@ Public Wi-Fi networks are commonly exploited for MITM attacks where attackers in
 
 
 
-\### Prevention Techniques
+### Prevention Techniques
 
 
 
-\* Use HTTPS websites
+* Use HTTPS websites
 
-\* Enable VPN services
+* Enable VPN services
 
-\* Implement strong encryption
+* Implement strong encryption
 
-\* Avoid unsecured public networks
-
-
-
-\---
+* Avoid unsecured public networks
 
 
 
-\## 3. Spoofing Attacks
+---
 
 
 
-\### What is Spoofing?
+## 3. Spoofing Attacks
+
+
+
+### What is Spoofing?
 
 
 
@@ -150,11 +150,11 @@ Spoofing is the act of impersonating a trusted source to deceive users or system
 
 
 
-\### Types of Spoofing
+### Types of Spoofing
 
 
 
-\#### IP Spoofing
+#### IP Spoofing
 
 
 
@@ -162,7 +162,7 @@ Attackers modify IP addresses to disguise their identity.
 
 
 
-\#### Email Spoofing
+#### Email Spoofing
 
 
 
@@ -170,7 +170,7 @@ Attackers forge sender email addresses to appear legitimate.
 
 
 
-\#### ARP Spoofing
+#### ARP Spoofing
 
 
 
@@ -178,21 +178,21 @@ Attackers associate their MAC address with another device's IP address.
 
 
 
-\### Impact
+### Impact
 
 
 
-\* Unauthorized access
+* Unauthorized access
 
-\* Data interception
+* Data interception
 
-\* Malware distribution
+* Malware distribution
 
-\* Identity theft
+* Identity theft
 
 
 
-\### Real-World Example
+### Real-World Example
 
 
 
@@ -200,47 +200,47 @@ Many phishing campaigns use email spoofing to impersonate banks and trusted orga
 
 
 
-\### Prevention Techniques
+### Prevention Techniques
 
 
 
-\* Email authentication protocols (SPF, DKIM, DMARC)
+* Email authentication protocols (SPF, DKIM, DMARC)
 
-\* Network monitoring
+* Network monitoring
 
-\* Secure configuration practices
+* Secure configuration practices
 
-\* User awareness training
-
-
-
-\---
+* User awareness training
 
 
 
-\## Best Practices for Network Security
+---
 
 
 
-\* Keep systems updated
-
-\* Use strong passwords and multi-factor authentication
-
-\* Deploy firewalls and antivirus software
-
-\* Monitor network traffic regularly
-
-\* Conduct security awareness training
-
-\* Implement encryption wherever possible
+## Best Practices for Network Security
 
 
 
-\---
+* Keep systems updated
+
+* Use strong passwords and multi-factor authentication
+
+* Deploy firewalls and antivirus software
+
+* Monitor network traffic regularly
+
+* Conduct security awareness training
+
+* Implement encryption wherever possible
 
 
 
-\## Conclusion
+---
+
+
+
+## Conclusion
 
 
 
